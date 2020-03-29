@@ -35,7 +35,8 @@ form input {
   height: 60px;
   background: #e02041;
   border: 0;
-  border-radius: #FFF;
+  border-radius: 8px;
+  color: #FFF;
   font-weight: 700;
   margin-top: 16px;
   display: inline-block;
