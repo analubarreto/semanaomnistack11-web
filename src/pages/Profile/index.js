@@ -32,7 +32,46 @@ const Profile = () => {
           <strong>VALOR:</strong>
           <p>R$120</p>
 
-          <button type="button"></button>
+          <button type="button"><FiTrash2 size="20" color="a8a8b3" /></button>
+        </li>
+
+        <li>
+          <strong>CASO:</strong>
+          <p>Caso teste</p>
+
+          <strong>DESCRIÇÃO:</strong>
+          <p>Descrição teste</p>
+
+          <strong>VALOR:</strong>
+          <p>R$120</p>
+
+          <button type="button"><FiTrash2 size="20" color="a8a8b3" /></button>
+        </li>
+
+        <li>
+          <strong>CASO:</strong>
+          <p>Caso teste</p>
+
+          <strong>DESCRIÇÃO:</strong>
+          <p>Descrição teste</p>
+
+          <strong>VALOR:</strong>
+          <p>R$120</p>
+
+          <button type="button"><FiTrash2 size="20" color="a8a8b3" /></button>
+        </li>
+
+        <li>
+          <strong>CASO:</strong>
+          <p>Caso teste</p>
+
+          <strong>DESCRIÇÃO:</strong>
+          <p>Descrição teste</p>
+
+          <strong>VALOR:</strong>
+          <p>R$120</p>
+
+          <button type="button"><FiTrash2 size="20" color="a8a8b3" /></button>
         </li>
       </ul>
     </div>
